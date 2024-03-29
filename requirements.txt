@@ -1,0 +1,6 @@
+unicorn
+gunicorn
+fastapi
+pydantic
+sklearn
+panda
